@@ -1,8 +1,8 @@
 # pizza
 
-# reference
+## reference
 
-# https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_first_component
+### https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_first_component
 
 ## Project setup
 
